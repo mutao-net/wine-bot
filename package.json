@@ -1,0 +1,30 @@
+{
+  "name": "wine-bot",
+  "version": "1.0.0",
+  "description": "wine-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/opst-ebook/ramen-bot.git"
+  },
+  "keywords": [],
+  "author": "alapacanet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/opst-ebook/ramen-bot/issues"
+  },
+  "homepage": "https://gitlab.com/opst-ebook/ramen-bot#README",
+  "dependencies": {
+    "botkit": "^0.6.7",
+    "cron": "^1.3.0",
+    "extend": "^3.0.1",
+    "install": "^0.11.0",
+    "npm": "^6.1.0",
+    "request": "^2.87.0",
+    "time": "^0.12.0",
+    "twitter": "^1.7.1"
+  }
+}
